@@ -24,3 +24,5 @@ hs_err_pid*
 replay_pid*
 tipos-variaveis/.vscode/settings.json
 metodos/SISTEMA-SMART-TV/.vscode/settings.json
+metodos/SISTEMA-SMART-TV/.vscode/launch.json
+controle-fluxo/CONTROLE-FLUXO/.vscode/settings.json
